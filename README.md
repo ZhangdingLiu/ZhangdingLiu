@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Zhangding Liu
 
-I'm a Ph.D. researcher at **Georgia Tech**, focusing on **Large Language Models**, **multimodal learning**, **digital twins**, and **urban intelligence**. I also hold an M.S. in **Computational Science and Engineering**.
+I'm a CSE Ph.D. student at **Georgia Tech**, focusing on **Large Language Models**, **multimodal learning**, **digital twins**, and **urban intelligence**. I also hold an M.S. in **Computational Science and Engineering**.
 
 My work aims to bridge **AI and disaster resilience**, with applications in **flood monitoring**, **hurricane damage assessment**, **epidemiological modeling**, and **smart infrastructure systems**.
 
