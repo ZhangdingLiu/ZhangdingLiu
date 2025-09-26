@@ -7,7 +7,6 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 
 
 🔗 [Visit my academic website](https://zhangdingliu.github.io/)  
-% 📄 [Download my CV (PDF)](https://zhangdingliu.github.io/assets/ZhangdingLiu_CV.pdf)
 
 ---
 
