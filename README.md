@@ -1,8 +1,10 @@
-## 👋 Hi, 
+## 👋 Hi, I am Zhangding Liu
 
-Zhangding Liu is a Research Assistant and Ph.D. student in **Computational Science and Engineering** at **Georgia Institute of Technology**. His research focuses on **machine learning**, **multimodal learning**, and **large language models**, with the goal of advancing AI capabilities in understanding, reasoning, and interacting with complex real-world environments. 
-He has collaborated with leading researchers and industry partners, including **Lawrence Berkeley National Laboratory**, **Partnership for Innovation**, and **Emergency Services Departments**, implementing AI for multimodal data analysis and disaster-aware resilience in smart city digital twins. 
-With expertise in machine learning, deep learning, and LLMs, as well as a strong background in engineering applications, Zhangding is passionate about leveraging AI to address real-world challenges. 
+I am a Research Assistant and Ph.D. student in **Computational Science and Engineering** at **Georgia Institute of Technology**. His research focuses on **machine learning**, **multimodal learning**, and **large language models**, with the goal of advancing AI capabilities in understanding, reasoning, and interacting with complex real-world environments. 
+
+I have collaborated with leading researchers and industry partners, including **Lawrence Berkeley National Laboratory**, **Partnership for Innovation**, and **Emergency Services Departments**, implementing AI for multimodal data analysis and disaster-aware resilience in smart city digital twins. 
+
+With expertise in machine learning, deep learning, and LLMs, as well as a strong background in engineering applications, I am passionate about leveraging AI to address real-world challenges. 
 
 
 
